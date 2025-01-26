@@ -1,7 +1,11 @@
 # Hello, I'm Christian Arlington
-<a href="[https://www.linkedin.com/in/christian-arlington-136695239/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a highly motivated and detail-oriented professional transitioning from business analysis to cybersecurity, leveraging my data interpretation and root cause analysis expertise. With a strong business process optimization and data analysis background, I am now dedicated to safeguarding consumer and corporate data through proactive security measures. Passionate about protecting people, I am eager to align my skills with the organization’s mission to secure its digital assets and enhance its cybersecurity defenses.
+
+[Brief Introduction - Remove this afterwards]
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
