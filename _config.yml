@@ -2,7 +2,7 @@
 title: "Christian Arlington's Portfolio"
 description: "Certified IT Security Analyst specializing in data protection and compliance."
 baseurl: "" # Leave blank if deployed to the root of the GitHub Pages site
-url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+url: "https://NauticalAnalysis.github.io" # Replace with your GitHub Pages URL
 
 # Theme Selection
 theme: jekyll-theme-cayman # Replace "minima" with your desired Jekyll theme
