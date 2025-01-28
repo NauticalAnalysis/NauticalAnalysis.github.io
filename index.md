@@ -53,4 +53,3 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 <div>
 
 ## Projects
-- _Coming Soon!_
