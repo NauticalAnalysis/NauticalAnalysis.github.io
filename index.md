@@ -24,7 +24,6 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 
 ## Tools
 
-
 ### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -54,5 +53,4 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 <div>
 
 ## Projects
-
-_Coming Soon!_
+- _Coming Soon!_
