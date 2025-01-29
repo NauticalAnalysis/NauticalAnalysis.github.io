@@ -1,14 +1,17 @@
+---
+layout: default
+title: "Welcome to My Portfolio"
+---
 # Hello, I'm Christian Arlington
 <a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Certified IT Security Analyst with expertise in data protection, compliance, and technical problem-solving.
 
-## Objective
+## About Me
 
 I am a highly motivated and detail-oriented professional transitioning from business analysis to cybersecurity, leveraging my data interpretation and root cause analysis expertise. With a strong business process optimization and data analysis background, I am now dedicated to safeguarding consumer and corporate data through proactive security measures. Passionate about protecting people, I am eager to align my skills with the organization’s mission to secure its digital assets and enhance its cybersecurity defenses.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +23,6 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -51,6 +53,3 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 <div>
 
 ## Projects
-
-- Detection Lab
-- SOC Automation Project

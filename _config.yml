@@ -1,1 +1,23 @@
+# Basic Site Information
+title: "Christian Arlington's Portfolio"
+description: "“It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it.” ― Stephane Nappo.
+"
+baseurl: "" # Leave blank if deployed to the root of the GitHub Pages site
+url: "https://NauticalAnalysis.github.io" # Replace with your GitHub Pages URL
 
+# Theme Selection
+theme: jekyll-theme-cayman # Replace "minima" with your desired Jekyll theme
+
+# Plugins (optional but recommended)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub-Flavored Markdown for better compatibility with README.md
+
+# Exclude unnecessary files from the site
+exclude:
+  - README.md # Optional: Exclude if renamed to index.md
