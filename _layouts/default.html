@@ -1,8 +1,47 @@
 <!-- _layouts/default.html (or your custom layout file) -->
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{{ '/assets/css/nautical-style.css' | relative_url }}">
-  <!-- Other meta tags, title, and links can go here -->
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
-<!-- Rest of your HTML structure (body, etc.) -->
+<body>
+  <header>
+    <div class="header-container">
+      <div class="logo">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/img/logo.png" alt="Christian Arlington's Portfolio" />
+        </a>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/about/">About</a></li>
+          <li><a href="{{ site.baseurl }}/projects/">Projects</a></li>
+          <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <div class="footer-container">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      <ul class="social-links">
+        <li><a href="https://linkedin.com/in/christian-arlington-136695239/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/NauticalAnalysis" target="_blank"><i class="fab fa-github"></i></a></li>
+        <!-- Add more social links as needed -->
+      </ul>
+    </div>
+  </footer>
+</body>
+</html>
