@@ -1,1 +1,9 @@
+# _config.yml
+
+# Nautical color scheme
+colors:
+  primary: "#032B44"  # Deep Navy Blue
+  secondary: "#8B9467"  # Weathered Wood
+  accent: "#FFC400"  # Safety Orange
+  background: "#F7F7F7"  # Light Gray (or a subtle wave pattern)
 
