@@ -8,3 +8,12 @@ theme: minima  # Or try "cayman", "hacker", etc.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Markdown Configuration
+markdown: kramdown
+kramdown:
+  input: GFM # GitHub-Flavored Markdown for better compatibility with README.md
+
+# Exclude unnecessary files from the site
+exclude:
+  - README.md # Optional: Exclude if renamed to index.md
