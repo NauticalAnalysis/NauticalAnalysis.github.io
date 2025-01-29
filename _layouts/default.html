@@ -1,36 +1,43 @@
-<!-- _layouts/default.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ '/assets/css/nautical-style.css' | relative_url }}">
-  <title>{{ page.title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+        body {
+            background-color: #001F3F; /* Deep Navy */
+            color: #FFFFFF; /* White text */
+            font-family: "Georgia", serif;
+        }
+        h1, h2, h3 {
+            color: #FFD700; /* Gold accents */
+        }
+        a {
+            color: #00A2E8; /* Ocean Blue links */
+        }
+        a:hover {
+            color: #FFD700; /* Gold hover effect */
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.3);
+        }
+    </style>
 </head>
-
 <body>
-  <header>
-    <div class="header-container">
-      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-      <p>Navigating your IT Security needs</p>
-      <nav>
-        <ul>
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          <li><a href="{{ site.baseurl }}/about/">About</a></li>
-          <li><a href="{{ site.baseurl }}/projects/">Projects</a></li>
-          <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
-        </ul>
-      </nav>
+    <div class="header">
+        <h1>⚓ Nautical Analysis</h1>
     </div>
-  </header>
-
-  <main>
-    {{ content }}
-  </main>
-
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
-  </footer>
+    <div class="container">
+        {{ content }}
+    </div>
 </body>
 </html>
