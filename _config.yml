@@ -13,7 +13,7 @@ colors:
   background: "#F7F7F7"  # Light Gray (or a subtle wave pattern)
 
 # Theme Selection
-theme: jekyll-theme-cayman # Replace "minima" with your desired Jekyll theme
+theme: # Replace "minima" with your desired Jekyll theme
 
 # Override theme colors with our nautical scheme (optional)
 # Uncomment the lines below to apply the nautical colors to the Cayman theme
