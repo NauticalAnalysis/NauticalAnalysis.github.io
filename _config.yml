@@ -5,8 +5,25 @@ description: "“It takes 20 years to build a reputation and a few minutes of cy
 baseurl: "" # Leave blank if deployed to the root of the GitHub Pages site
 url: "https://NauticalAnalysis.github.io" # Replace with your GitHub Pages URL
 
+# Nautical Color Scheme (as variables)
+colors:
+  primary: "#032B44"  # Deep Navy Blue
+  secondary: "#8B9467"  # Weathered Wood
+  accent: "#FFC400"  # Safety Orange
+  background: "#F7F7F7"  # Light Gray (or a subtle wave pattern)
+
 # Theme Selection
 theme: jekyll-theme-cayman # Replace "minima" with your desired Jekyll theme
+
+# Override theme colors with our nautical scheme (optional)
+# Uncomment the lines below to apply the nautical colors to the Cayman theme
+# (Note: This might require additional CSS tweaks for optimal results)
+#
+# theme_settings:
+#   palette:
+#     primary: "{{ site.colors.primary }}"
+#     secondary: "{{ site.colors.secondary }}"
+#     background: "{{ site.colors.background }}"
 
 # Plugins (optional but recommended)
 plugins:
@@ -21,3 +38,4 @@ kramdown:
 # Exclude unnecessary files from the site
 exclude:
   - README.md # Optional: Exclude if renamed to index.md
+
