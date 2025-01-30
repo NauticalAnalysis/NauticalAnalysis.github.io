@@ -2,7 +2,6 @@
 layout: default
 title: "Christian's Portfolio"
 ---
-# Hi, I'm Christian Arlington
 <a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Helping you navigate your security needs.
