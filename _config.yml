@@ -1,14 +1,10 @@
-# Basic Site Information
-title: "Christian Arlington's Portfolio"
-description: "“It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it.” ― Stephane Nappo.
-"
-baseurl: "" # Leave blank if deployed to the root of the GitHub Pages site
-url: "https://NauticalAnalysis.github.io" # Replace with your GitHub Pages URL
+title: "Nautical Analysis"
+description: "Cybersecurity insights with a nautical perspective"
+baseurl: "" 
+url: "https://nauticalanalysis.github.io"
 
-# Theme Selection
-theme: jekyll-theme-cayman # Replace "minima" with your desired Jekyll theme
+theme: minima  # Or try "cayman", "hacker", etc.
 
-# Plugins (optional but recommended)
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

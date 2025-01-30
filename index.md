@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Christian's Portfolio"
 ---
-# Hello, I'm Christian Arlington
+# Hi, I'm Christian Arlington
 <a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Certified IT Security Analyst with expertise in data protection, compliance, and technical problem-solving.
+Helping you navigate your security needs.
 
 ## About Me
 
