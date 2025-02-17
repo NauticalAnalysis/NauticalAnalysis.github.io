@@ -23,20 +23,20 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 
 ## Tools
 
-### Network
+#### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-tcpdump-777BB4?style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
-### Endpoint
+#### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+#### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -51,4 +51,3 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 <a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
 <div>
 
-## Projects
