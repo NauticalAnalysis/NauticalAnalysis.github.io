@@ -14,8 +14,9 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Secure Access with Azure AD          | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Securing Access with Azure AD          | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Detection Lab</a>|
+| Incident Report: Network Traffic Analysis with tcpdump 
+ | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
