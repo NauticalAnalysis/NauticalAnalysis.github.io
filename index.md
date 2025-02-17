@@ -10,12 +10,12 @@ Helping you navigate your security needs.
 
 I am a highly motivated and detail-oriented professional transitioning from business analysis to cybersecurity, leveraging my data interpretation and root cause analysis expertise. With a strong business process optimization and data analysis background, I am now dedicated to safeguarding consumer and corporate data through proactive security measures. Passionate about protecting people, I am eager to align my skills with the organization’s mission to secure its digital assets and enhance its cybersecurity defenses.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Task                                         | Associated Skill         |
 |-----------------------------------------------|----------------------------|
-| Securing Access with Azure AD          | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Detection Lab</a>|
-| Incident Report: Network Traffic Analysis with tcpdump | <a href="https://google.com">Detection Lab</a>|
+| <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
+| <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Incident Report: Network Traffic Analysis with tcpdump</a> | Network Analysis|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
