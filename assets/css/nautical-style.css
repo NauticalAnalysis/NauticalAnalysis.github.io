@@ -86,3 +86,17 @@ a:hover {
     border-radius: 50%; /* Circular image */
     object-fit: cover;
 }
+.profile-pic {
+    width: 150px; /* Adjust size as needed */
+    height: 150px;
+    border-radius: 50%; /* Makes it circular */
+    object-fit: cover; /* Ensures it fills the space without distortion */
+    margin-left: 20px; /* Adjust spacing from text */
+}
+
+@media (min-width: 768px) {
+    .profile-pic {
+        width: 200px; /* Larger size for desktop */
+        height: 200px;
+    }
+}
