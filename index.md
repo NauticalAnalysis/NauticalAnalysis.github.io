@@ -10,12 +10,12 @@ Helping you navigate your security needs.
 
 I am a highly motivated and detail-oriented professional transitioning from business analysis to cybersecurity, leveraging my data interpretation and root cause analysis expertise. With a strong business process optimization and data analysis background, I am now dedicated to safeguarding consumer and corporate data through proactive security measures. Passionate about protecting people, I am eager to align my skills with the organization’s mission to secure its digital assets and enhance its cybersecurity defenses.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Task                                         | Associated Skill         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
+| <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -23,20 +23,20 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 
 ## Tools
 
-### Network
+#### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-tcpdump-777BB4?style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
-### Endpoint
+#### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+#### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
@@ -51,4 +51,3 @@ I am a highly motivated and detail-oriented professional transitioning from busi
 <a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
 <div>
 
-## Projects
