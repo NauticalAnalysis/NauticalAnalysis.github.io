@@ -18,9 +18,10 @@ I’m a cybersecurity professional with a background in business analysis, drive
 | <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
 | <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux Administration|
 | <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management|
-| In Progress                  | In Progress|
-| In Progress | In Progress |
-
+| <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Incident Report</a>                  | Documentation |
+| <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | Frameworks |
+| <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
+| <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL Queries</a> | SQL |
 ## Tools
 
 #### Network
