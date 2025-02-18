@@ -16,7 +16,7 @@ I’m a cybersecurity professional with a background in business analysis, drive
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
 | <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux Adminstration|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
