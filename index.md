@@ -8,7 +8,7 @@ Helping you navigate your security needs.
 
 ## About Me
 
-I am a highly motivated and detail-oriented professional transitioning from business analysis to cybersecurity, leveraging my data interpretation and root cause analysis expertise. With a strong business process optimization and data analysis background, I am now dedicated to safeguarding consumer and corporate data through proactive security measures. Passionate about protecting people, I am eager to align my skills with the organization’s mission to secure its digital assets and enhance its cybersecurity defenses.
+I’m a cybersecurity professional with a background in business analysis, driven by a passion for protecting data and securing digital environments. My expertise in data interpretation, root cause analysis, and process optimization enables me to bridge the gap between security and business operations. I thrive on identifying risks, implementing proactive security measures, and ensuring compliance. My goal is to safeguard both consumers and organizations by strengthening their cybersecurity defenses.
 
 ## Projects
 
