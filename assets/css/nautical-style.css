@@ -42,7 +42,7 @@ h1, h2, h3 {
 
 /* Links */
 a {
-    color: #00A2E8; /* Ocean Blue links */
+    color: #FFCC66; /* Light gold for better contrast */
     text-decoration: none;
     transition: color 0.3s ease-in-out;
 }
