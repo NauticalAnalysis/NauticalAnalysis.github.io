@@ -8,13 +8,13 @@ title: "Christian's Portfolio"
 
 ## About Me
 
-I’m a solutions-driven professional with a background in IT Business Analysis, now seeking to transition into an IT security role. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, implementing proactive security measures, and ensuring compliance. My goal is to safeguard both consumers and organizations by strengthening their cybersecurity defenses. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. I guess keeping people safe runs in the family.
+As a solutions-driven professional with a background in IT Business Analysis, I'm now seeking to transition into an IT security role. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, implementing proactive security measures, and ensuring compliance. My goal is to safeguard both consumers and organizations by strengthening their cybersecurity defenses. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. I guess keeping people safe runs in the family.
 
-I am a problem-solver to my core. I tinkered and toyed with anything I could get my hands on just to understand how it worked. I remember fixing my PlayStation when I was 10, not necessarily to tinker with it but because I refused to wait for my dad. I guess that really impressed him because I got the job of helping fix the WiFi soon after. Now, I love to dissect and analyze the stories data can often tell. I strive to find the most reliable and efficient solutions to problems and build my expertise in those solutions. 
+I'm a problem-solver to my core. I tinkered and toyed with anything I could get my hands on just to understand how it worked. I remember fixing my PlayStation when I was 10, not necessarily to tinker with it but because I refused to wait for my dad. I guess that really impressed him because I got the job of helping fix the WiFi soon after. Now, I love to dissect and analyze the stories data can often tell. I strive to find the most reliable and efficient solutions to problems and build my expertise in those solutions. 
 
-I'm a team player. Growing up playing primarily baseball and football, I learned that success does not have to be individually exclusive. For me, it feels more meaningful to share in that success with my teammates. In the professional world, we're all more efficient, confident, and content when everybody can share in that success. 
+Growing up playing primarily baseball and football, I learned to be a team player and that success does not have to be individually exclusive. For me, it feels more meaningful to share in that success with my teammates. In the professional world, we're all more efficient, confident, and content when everybody can share in that success. 
 
-I value respect, hard work, and efficiency. My professional promise is to bring those values with me every day.  
+My values are respect, hard work, and efficiency. My professional promise is to bring those values into the office every day.  
 
 ## Projects
 
