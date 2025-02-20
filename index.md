@@ -2,7 +2,7 @@
 layout: default
 title: "Christian's Portfolio"
 ---
-<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />Resume</a>
 
 
 
