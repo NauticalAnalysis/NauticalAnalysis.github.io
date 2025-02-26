@@ -2,13 +2,19 @@
 layout: default
 title: "Christian's Portfolio"
 ---
-<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />
 
-Helping you navigate your security needs.
+
 
 ## About Me
 
-I’m a cybersecurity professional with a background in business analysis, driven by a passion for protecting data and securing digital environments. My expertise in data interpretation, root cause analysis, and process optimization enables me to bridge the gap between security and business operations. I thrive on identifying risks, implementing proactive security measures, and ensuring compliance. My goal is to safeguard both consumers and organizations by strengthening their cybersecurity defenses.
+As a solutions-driven professional with a background in IT Business Analysis, I'm now seeking to transition into an IT security role. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, implementing proactive security measures, and ensuring compliance. My goal is to safeguard both consumers and organizations by strengthening their cybersecurity defenses. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. I guess keeping people safe runs in the family.
+
+I'm a problem-solver to my core. I tinkered and toyed with anything I could get my hands on just to understand how it worked. I remember fixing my PlayStation when I was 10, not necessarily to tinker with it but because I refused to wait for my dad. I guess that really impressed him because I got the job of helping fix the WiFi soon after. Now, I love to dissect and analyze the stories data can often tell. I strive to find the most reliable and efficient solutions to problems and build my expertise in those solutions. 
+
+Growing up playing primarily baseball and football, I learned to be a team player and that success does not have to be individually exclusive. For me, it feels more meaningful to share in that success with my teammates. In the professional world, we're all more efficient, confident, and content when everybody can share in that success. 
+
+My values are respect, hard work, and efficiency. My professional promise is to bring those values into the office every day.  
 
 ## Projects
 
@@ -16,12 +22,14 @@ I’m a cybersecurity professional with a background in business analysis, drive
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
 | <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
-| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux Administration|
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | System Administration|
 | <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management|
-| <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Incident Report</a>                  | Documentation |
+| <a href="https://docs.google.com/document/d/1FCyotqo3tezu3v9u1fy3YhqvtGabQ9LDkCCuIX6Tc-c/edit?usp=sharing">Phishing Simulation</a>                  | Security Awareness & Social Engineering |
 | <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | Frameworks |
 | <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
-| <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL Queries</a> | SQL |
+| <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
+| <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Wireshark |
+| <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Ransomware Incident Report</a>                  | Documentation |
 
 ## Tools
 
@@ -35,14 +43,13 @@ I’m a cybersecurity professional with a background in business analysis, drive
 #### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
 #### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
