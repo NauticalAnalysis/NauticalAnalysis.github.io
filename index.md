@@ -22,8 +22,9 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
 | <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
-| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux Administration|
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | System Administration|
 | <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management|
+| <a href="https://docs.google.com/document/d/1FCyotqo3tezu3v9u1fy3YhqvtGabQ9LDkCCuIX6Tc-c/edit?usp=sharing">Phishing Simulation</a>                  | Security Awareness & Social Engineering |
 | <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | Frameworks |
 | <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
 | <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
@@ -42,14 +43,13 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 #### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
 #### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
