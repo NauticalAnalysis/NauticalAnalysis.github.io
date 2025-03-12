@@ -30,7 +30,7 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 | <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
 | <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Wireshark |
 | <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Ransomware Incident Report</a>                  | Documentation |
-| <a href="https://docs.google.com/document/d/1aY6sTOmUjA2wiX17qeBoZj2PdICnMW3z2CmQpTVWk20/edit?usp=sharing">Controls and Compliance Checklist</a>                  | Security Controls & Compliance |
+| <a href="https://docs.google.com/document/d/1aY6sTOmUjA2wiX17qeBoZj2PdICnMW3z2CmQpTVWk20/edit?usp=sharing">Controls & Compliance Checklist</a>                  | Security Controls & Compliance |
 
 ## Tools
 
