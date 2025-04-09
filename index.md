@@ -21,15 +21,17 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 | Task                                         | Associated Skill         |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
-| <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis|
-| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | System Administration|
-| <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management|
+| <a href="https://docs.google.com/document/d/1Ir-lxCoDhoxXAvzhG5jXkS28WyAmRlXCuTXn6e1GCZc/edit?usp=sharing">Endpoint Hardening with Microsoft Defender</a>         | Endpoint Detection & Response |
 | <a href="https://docs.google.com/document/d/1FCyotqo3tezu3v9u1fy3YhqvtGabQ9LDkCCuIX6Tc-c/edit?usp=sharing">Phishing Simulation</a>                  | Security Awareness & Social Engineering |
+| <a href="https://docs.google.com/document/d/1dKcUKgUHNRPf7rZUAtOLStviQ4GEVQiYBmxbvJL364U/edit?usp=sharing&resourcekey=0-CPyrpb9gX69jUJqpWc_4uA">Network Traffic Analysis with tcpdump</a> | Network Analysis |
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | System Administration |
+| <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management |
 | <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | Frameworks |
 | <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
 | <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
 | <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Wireshark |
 | <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Ransomware Incident Report</a>                  | Documentation |
+| <a href="https://docs.google.com/document/d/188n2fDlUT3fJWzVnCsnQ4iIG1t3ovd0vDdq6FaK-XtE/edit?usp=sharing">Controls & Compliance Checklist</a>                  | Security Controls & Compliance |
 
 ## Tools
 
