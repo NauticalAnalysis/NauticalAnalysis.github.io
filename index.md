@@ -17,6 +17,7 @@ Growing up playing primarily baseball and football, I learned to be a team playe
 My values are respect, hard work, and efficiency. My professional promise is to bring those values into the office every day.  
 
 ## Projects
+
 |                                          |           |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
