@@ -18,7 +18,7 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 
 ## Projects
 
-| Task                                         | Associated Skill         |
+|                                          |           |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
 | <a href="https://docs.google.com/document/d/1Ir-lxCoDhoxXAvzhG5jXkS28WyAmRlXCuTXn6e1GCZc/edit?usp=sharing">Endpoint Hardening with Microsoft Defender</a>         | Endpoint Detection & Response |
