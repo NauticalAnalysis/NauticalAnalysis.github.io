@@ -38,6 +38,7 @@ My values are respect, hard work, and efficiency. My professional promise is to 
 #### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-5A5A5A?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 <img src="https://img.shields.io/badge/-tcpdump-777BB4?style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
