@@ -8,7 +8,7 @@ title: "Christian's Portfolio"
 
 ## About Me
 
-I'm a solutions-driven professional with a background in Business Systems Analysis seeking to make an impact through secure system implementation. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, implementing proactive solutions, and ensuring compliance. 
+I'm a solutions-driven professional with a background in Business Systems Analysis seeking to make an impact through secure system implementation. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, ensuring compliance, and performing under pressure. 
 
 My goal is to safeguard both consumers and organizations by strengthening their security posture. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Keeping people safe runs in the family! 
 
