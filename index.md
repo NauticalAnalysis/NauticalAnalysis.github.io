@@ -37,28 +37,37 @@ My values are efficiency, discipline, and respect. My professional promise is to
 #### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-5A5A5A?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-<img src="https://img.shields.io/badge/-tcpdump-777BB4?style=for-the-badge&logo=tcpdump&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-3CB371?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EDA43E?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 #### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
 </div>
 
 #### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-3CB371?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+#### Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-EDA43E?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-0078D4?&style=for-the-badge&logo=SQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML-FF0000?&style=for-the-badge&logo=HTML&logoColor=white" />
 </div>
 
 ## Certifications
 
 <div>
 <a href="https://www.credly.com/badges/12b38342-05d0-4901-803e-05b55a3c2281/public_url">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/4031677c-06e8-4b7b-9489-24dfa56684ea/public_url">
+    <img src="https://img.shields.io/badge/-Network%2B-0078D6?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity-3CB371?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
 <div>
 
