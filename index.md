@@ -34,30 +34,38 @@ My values are efficiency, discipline, and respect. My professional promise is to
 
 ## Tools
 
-#### Network
+#### Operating Systems
+<div>
+    Windows 10/11
+    macOS
+    Ubuntu Linux
+</div>
+
+#### Network Security
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-0078D4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-3CB371?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EDA43E?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
-
-#### Endpoint
+    SNMP
+    <img src="https://img.shields.io/badge/-Suricata-EDA43E?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    Nessus   
 <div>
+    
+#### Software & Platforms
+<div>
+    Azure AD
     <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
-</div>
-
-#### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-3CB371?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    Intune
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-3CB371?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-#### Languages
+#### Programming/Scriptiung Languages
 <div>
     <img src="https://img.shields.io/badge/-Python-EDA43E?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL-0078D4?&style=for-the-badge&logo=SQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-HTML-FF0000?&style=for-the-badge&logo=HTML&logoColor=white" />
+    bash
+    powershell
 </div>
 
 ## Certifications
@@ -70,4 +78,3 @@ My values are efficiency, discipline, and respect. My professional promise is to
 <a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-3CB371?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
 <div>
-
