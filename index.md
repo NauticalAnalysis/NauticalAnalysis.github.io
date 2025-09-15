@@ -2,22 +2,21 @@
 layout: default
 title: "Christian's Portfolio"
 ---
-<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />
+<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />
 
 
 
 ## About Me
 
-I'm a solutions-driven professional with a background in Business Systems Analysis seeking to make an impact through secure system implementation. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, ensuring compliance, and performing under pressure. 
+I'm a solutions-driven Business Analyst with a strong technical background, bridging the gap between security best practices and business operations. I bring 5 years of business analyst experience along with my CompTIA Network+ and Security+ certifications obtained at my current role with Play It Safe Defense as a Cybersecurity Business Analyst. My passion for business process optimization and information technology is complemented by my expertise in data interpretation, gap analysis, and critical thinking. I thrive on identifying risk, ensuring compliance, and performing under pressure. 
 
-My goal is to safeguard both consumers and organizations by strengthening their security posture. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Keeping people safe runs in the family! 
+I solve hard problems and keep people, data, and operations safe. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. That safety-first mindset runs in the family! 
 
-Growing up an athlete, focusing on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to bring my skills and abilities to team where I can continue to grow.  
+Growing up an athlete, focusing primarily on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to bring my skills and abilities to a team where I can continue to grow.  
 
 My values are efficiency, discipline, and respect. My professional promise is to bring those values to the office every day.  
 
 ## Projects
-
 |                                          |           |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
@@ -36,35 +35,35 @@ My values are efficiency, discipline, and respect. My professional promise is to
 
 #### Operating Systems
 <div>
-    Windows 10/11
-    macOS
-    Ubuntu Linux
+    Windows 10/11 |
+    macOS |
+    Ubuntu Linux 
 </div>
 
 #### Network Security
 <div>
-<img src="https://img.shields.io/badge/-Wireshark-0078D4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-3CB371?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    SNMP
-    <img src="https://img.shields.io/badge/-Suricata-EDA43E?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    Nessus   
+    Wireshark |
+    Nmap |
+    SNMP | 
+    Suricata |
+    Nessus Essentials 
 <div>
     
 #### Software & Platforms
 <div>
-    Azure AD
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    Intune
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-3CB371?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    Azure AD |
+    Micorosoft Defender | 
+    Intune |
+    Splunk | 
+    Microsoft Sentinel 
 </div>
 
 #### Programming/Scriptiung Languages
 <div>
-    <img src="https://img.shields.io/badge/-Python-EDA43E?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-0078D4?&style=for-the-badge&logo=SQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML-FF0000?&style=for-the-badge&logo=HTML&logoColor=white" />
-    bash
+    Python |
+    SQL |
+    HTML |
+    bash |
     powershell
 </div>
 
