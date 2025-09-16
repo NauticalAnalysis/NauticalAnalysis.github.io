@@ -52,7 +52,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Nessus Essentials 
 <div>
 
-#### Software & Platforms
+## Software & Platforms
 
 <div>
     Azure AD |
@@ -63,7 +63,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
 </div>
 
 
-#### Programming/Scriptiung Languages
+## Programming/Scriptiung Languages
 
 <div>
     Python |
