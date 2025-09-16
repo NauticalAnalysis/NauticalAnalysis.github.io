@@ -51,7 +51,6 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Suricata |
     Nessus Essentials 
 <div>
-    
 
 #### Software & Platforms
 
