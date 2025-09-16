@@ -35,46 +35,26 @@ My values are efficiency, discipline, and respect. My professional promise is to
 ## Tools
 
 #### Operating Systems
-
-<div>
-    Windows 10/11 |
-    macOS |
-    Ubuntu Linux 
+<div markdown="1">
+Windows 10/11 \| macOS \| Ubuntu Linux
 </div>
 
 #### Network Security
-
-<div>
-    Wireshark |
-    Nmap |
-    SNMP | 
-    Suricata |
-    Nessus Essentials 
-<div>
-
-#### Software & Platforms
-
-<div>
-    Azure AD |
-    Micorosoft Defender | 
-    Intune |
-    Splunk | 
-    Microsoft Sentinel 
+<div markdown="1">
+Wireshark \| Nmap \| SNMP \| Suricata \| Nessus Essentials
 </div>
 
+#### Software & Platforms
+<div markdown="1">
+Azure AD \| Microsoft Defender \| Intune \| Splunk \| Microsoft Sentinel
+</div>
 
-#### Programming/Scriptiung Languages
-
-<div>
-    Python |
-    SQL |
-    HTML |
-    Bash |
-    PowerShell
+#### Programming/Scripting Languages
+<div markdown="1">
+Python \| SQL \| HTML \| Bash \| PowerShell
 </div>
 
 ## Certifications
-
 <div>
 <a href="https://www.credly.com/badges/12b38342-05d0-4901-803e-05b55a3c2281/public_url">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
