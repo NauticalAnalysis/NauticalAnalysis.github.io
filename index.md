@@ -52,6 +52,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Nessus Essentials 
 <div>
     
+
 #### Software & Platforms
 
 <div>
@@ -61,6 +62,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Splunk | 
     Microsoft Sentinel 
 </div>
+
 
 #### Programming/Scriptiung Languages
 
