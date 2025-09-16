@@ -17,6 +17,7 @@ Growing up an athlete, focusing primarily on baseball and football in high schoo
 My values are efficiency, discipline, and respect. My professional promise is to bring those values to the office every day.  
 
 ## Projects
+
 |                                          |           |
 |-----------------------------------------------|----------------------------|
 | <a href="https://docs.google.com/document/d/1pNYq3kmROa6xtqSyjoV58eo8j1ANyO--g38V3wEYp64/edit?usp=sharing">Securing Access with Azure AD</a>         | Identity and Access Management |
@@ -34,6 +35,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
 ## Tools
 
 #### Operating Systems
+
 <div>
     Windows 10/11 |
     macOS |
@@ -41,6 +43,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
 </div>
 
 #### Network Security
+
 <div>
     Wireshark |
     Nmap |
@@ -50,6 +53,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
 <div>
     
 #### Software & Platforms
+
 <div>
     Azure AD |
     Micorosoft Defender | 
@@ -59,6 +63,7 @@ My values are efficiency, discipline, and respect. My professional promise is to
 </div>
 
 #### Programming/Scriptiung Languages
+
 <div>
     Python |
     SQL |
