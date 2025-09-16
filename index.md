@@ -52,6 +52,27 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Nessus Essentials 
 <div>
 
+#### Software & Platforms
+
+<div>
+    Azure AD |
+    Micorosoft Defender | 
+    Intune |
+    Splunk | 
+    Microsoft Sentinel 
+</div>
+
+
+#### Programming/Scriptiung Languages
+
+<div>
+    Python |
+    SQL |
+    HTML |
+    Bash |
+    PowerShell
+</div>
+
 ## Certifications
 
 <div>
