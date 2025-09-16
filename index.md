@@ -70,8 +70,8 @@ My values are efficiency, discipline, and respect. My professional promise is to
     Python |
     SQL |
     HTML |
-    bash |
-    powershell
+    Bash |
+    PowerShell
 </div>
 
 ## Certifications
