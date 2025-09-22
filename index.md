@@ -32,21 +32,21 @@ My values are efficiency, discipline, and respect. My professional promise is to
 | <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Ransomware Incident Report</a>                  | Documentation |
 | <a href="https://docs.google.com/document/d/188n2fDlUT3fJWzVnCsnQ4iIG1t3ovd0vDdq6FaK-XtE/edit?usp=sharing">Controls & Compliance Checklist</a>                  | Security Controls & Compliance |
 
-## Tools
+## Skills
 
 #### Operating Systems
 <div markdown="1">
 Windows 10/11 \| macOS \| Ubuntu Linux
 </div>
 
-#### Network Security
-<div markdown="1">
-Wireshark \| Nmap \| SNMP \| Suricata \| Nessus Essentials
-</div>
-
 #### Software & Platforms
 <div markdown="1">
-Azure AD \| Microsoft Defender \| Intune \| Splunk \| Microsoft Sentinel
+Excel \| Microsoft 365 \| Azure AD/Entra ID \| Splunk \| Oracle Database \| Epic EHR
+</div>
+
+#### Networking & Security
+<div markdown="1">
+TCP/IP \| Wireshark \| Nmap \| SNMP \| Defender AV/Firewall \| Gophish
 </div>
 
 #### Programming/Scripting Languages
