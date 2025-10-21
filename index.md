@@ -8,7 +8,7 @@ title: "Christian's Portfolio"
 
 ## About Me
 
-I'm a solutions-driven Business Analyst with a strong technical background, bridging the gap between security best practices and business operations. I bring 5 years of business analyst experience along with my CompTIA Network+ and Security+ certifications obtained at my current role with Play It Safe Defense as a Cybersecurity Business Analyst. My passion for business process optimization and information technology is complemented by my expertise in data interpretation, gap analysis, and critical thinking. I thrive on identifying risk, ensuring compliance, and performing under pressure. 
+I'm a solutions-driven professional with a strong technical background, bridging the gap between security best practices and business operations. I bring 5 years of business analyst experience along with my CompTIA Network+ and Security+ certifications obtained at my current role with Play It Safe Defense as a Cybersecurity Business Analyst. My passion for business process optimization and information technology is complemented by my expertise in data interpretation, gap analysis, and critical thinking. I thrive on identifying risk, ensuring compliance, and performing under pressure. 
 
 I solve hard problems and keep people, data, and operations safe. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. That safety-first mindset runs in the family! 
 
