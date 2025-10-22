@@ -12,7 +12,7 @@ I'm a solutions-driven professional with a strong technical background, bridging
 
 I solve hard problems and keep people, data, and operations safe. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. That safety-first mindset runs in the family! 
 
-Growing up an athlete, focusing primarily on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to deliver for a team that supports growth and development.  
+Growing up an athlete, focusing primarily on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to deliver for a team where I can continue to grow and develop.  
 
 
 
