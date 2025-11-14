@@ -8,11 +8,11 @@ title: "Christian's Portfolio"
 
 ## About Me
 
-I'm a solutions-driven professional with a strong technical background, bridging the gap between security best practices and business operations. I bring 5 years of business analyst experience along with my CompTIA Network+ and Security+ certifications obtained at my current role with Play It Safe Defense as a Cybersecurity Business Analyst. My passion for business process optimization and information technology is complemented by my expertise in data interpretation, gap analysis, and critical thinking. I thrive on identifying risk, ensuring compliance, and performing under pressure. 
+I’m a solutions-driven professional with a strong technical foundation, bridging security best practices and business operations. I bring five years of business analyst experience and hold CompTIA Network+ and Security+ certifications, earned while working as an IT Consultant at Play It Safe Defense. I specialize in data interpretation, root cause analysis, and optimizing business processes through technology.
 
-I solve hard problems and keep people, data, and operations safe. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. That safety-first mindset runs in the family! 
+At Kaiser Permanente, I delivered under pressure on EHR software migration projects during open enrollment, coordinating tasks that supported systems used by over a million members across nine regions. At Play It Safe Defense, I harden systems, repair network hardware, and train colleagues in security best practices.
 
-Growing up an athlete, focusing primarily on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to deliver for a team where I can continue to grow and develop.  
+I solve complex problems while keeping people, data, and operations safe—a mindset rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and preparation—principles I carry into every project.
 
 
 
