@@ -12,7 +12,7 @@ I’m a solutions-driven professional with a strong technical foundation, bridgi
 
 At Kaiser Permanente, I delivered under pressure on EHR software migration projects during open enrollment, coordinating tasks that supported systems used by over a million members across nine regions. At Play It Safe Defense, I harden systems, repair network hardware, and train colleagues in security best practices.
 
-I solve complex problems while keeping people, data, and operations safe—a mindset rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and preparation—principles I carry into every project.
+I solve complex problems while keeping people, data, and operations safe. The safety mindset is rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and dedication–principles I carry into every project.
 
 
 
