@@ -3,7 +3,7 @@ description: "Cybersecurity insights with a nautical perspective"
 baseurl: "" 
 url: "https://nauticalanalysis.github.io"
 
-theme: minima  # Or try "cayman", "hacker", etc.
+theme: minima 
 
 plugins:
   - jekyll-feed

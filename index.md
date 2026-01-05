@@ -2,19 +2,19 @@
 layout: default
 title: "Christian's Portfolio"
 ---
-<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />
+<a href="https://linkedin.com/in/christian-arlington-136695239/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://docs.google.com/document/d/1ff5ec5qhqCpcF_ydx_v9Y9o9mxQ7wdpGEV9ekTN0t1M/edit?usp=sharing" />
 
 
 
 ## About Me
 
-I'm a solutions-driven professional with a background in Business Systems Analysis seeking to make an impact through secure system implementation. My passion for protecting people and securing digital environments is complemented by my expertise in data interpretation, root cause analysis, and process optimization, enabling me to bridge the gap between security best practices and business operations. I thrive on identifying risks, ensuring compliance, and performing under pressure. 
+I’m a solutions-driven professional with a strong technical foundation, bridging security best practices and business operations. I bring five years of business analyst experience and hold CompTIA Network+ and Security+ certifications, earned while working as an IT Consultant at Play It Safe Defense. I specialize in data interpretation, root cause analysis, and optimizing business processes through technology.
 
-My goal is to safeguard both consumers and organizations by strengthening their security posture. My dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Keeping people safe runs in the family! 
+At Kaiser Permanente, I delivered under pressure on EHR software migration projects during open enrollment, coordinating tasks that supported systems used by over a million members across nine regions. At Play It Safe Defense, I harden systems, repair network hardware, and train colleagues in security best practices.
 
-Growing up an athlete, focusing on baseball and football in high school, not only taught me how to be an effective communicator but that success is more meaningful when shared with teammates. That same principle applies in the workplace, and I'm eager to bring my skills and abilities to team where I can continue to grow.  
+I solve complex problems while keeping people, data, and operations safe. The safety mindset is rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and dedication–principles I carry into every project.
 
-My values are efficiency, discipline, and respect. My professional promise is to bring those values to the office every day.  
+
 
 ## Projects
 
@@ -32,36 +32,29 @@ My values are efficiency, discipline, and respect. My professional promise is to
 | <a href="https://docs.google.com/document/d/1lcyTE3fYRZhmVcYnP5b5ibVetV5eBDtAf8mTd04vi2U/edit?usp=sharing">Ransomware Incident Report</a>                  | Documentation |
 | <a href="https://docs.google.com/document/d/188n2fDlUT3fJWzVnCsnQ4iIG1t3ovd0vDdq6FaK-XtE/edit?usp=sharing">Controls & Compliance Checklist</a>                  | Security Controls & Compliance |
 
-## Tools
+## Skills
 
-#### Network
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-0078D4?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-3CB371?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Suricata-EDA43E?&style=for-the-badge&logo=Suricata&logoColor=white" />
+#### Operating Systems
+<div markdown="1">
+Windows 10/11 \| macOS \| Ubuntu Linux
 </div>
 
-#### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-E00?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+#### Software & Platforms
+<div markdown="1">
+Excel \| Microsoft 365 \| Azure AD/Entra ID \| Splunk \| Oracle Database \| Epic EHR
 </div>
 
-#### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-3CB371?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+#### Networking & Security
+<div markdown="1">
+TCP/IP \| Wireshark \| Nmap \| SNMP \| Defender AV/Firewall \| Gophish
 </div>
 
-#### Languages
-<div>
-    <img src="https://img.shields.io/badge/-Python-EDA43E?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-0078D4?&style=for-the-badge&logo=SQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML-FF0000?&style=for-the-badge&logo=HTML&logoColor=white" />
+#### Programming/Scripting Languages
+<div markdown="1">
+Python \| SQL \| HTML \| Bash \| PowerShell
 </div>
 
 ## Certifications
-
 <div>
 <a href="https://www.credly.com/badges/12b38342-05d0-4901-803e-05b55a3c2281/public_url">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -70,4 +63,3 @@ My values are efficiency, discipline, and respect. My professional promise is to
 <a href="https://coursera.org/share/4c66e549df20ab3db742156c9f5233c8">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity-3CB371?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" />
 <div>
-
