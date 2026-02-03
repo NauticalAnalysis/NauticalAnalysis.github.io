@@ -25,7 +25,7 @@ I solve complex problems while keeping people, data, and operations safe. The sa
 | <a href="https://docs.google.com/document/d/1FCyotqo3tezu3v9u1fy3YhqvtGabQ9LDkCCuIX6Tc-c/edit?usp=sharing">Phishing Simulation</a>                  | Security Awareness & Social Engineering |
 | <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
 | <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Network Analysis |
-| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux |
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Bash / Linux |
 | <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management |
 | <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | NIST Framework |
 | <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
