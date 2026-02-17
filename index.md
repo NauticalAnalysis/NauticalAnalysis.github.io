@@ -10,7 +10,7 @@ title: "Christian's Portfolio"
 
 I’m a solutions-driven professional with a strong technical foundation, bridging security best practices and business operations. I bring five years of business analyst experience and hold CompTIA Network+ and Security+ certifications. I specialize in data interpretation, root cause analysis, and optimizing business processes through technology.
 
-At Kaiser Permanente, I delivered under heavy pressure on EHR software migration projects during open enrollment, reconciling data and coordinating tasks between departments that supported systems used by over a million members across nine regions. At Play It Safe Defense, I patch and harden systems, troubleshoot the network, and consult stakeholders in security best practices.
+At Kaiser Permanente, I delivered under heavy pressure on EHR software migration projects during open enrollment, reconciling data and coordinating tasks between departments that supported systems used by over a million members across nine regions. At Play It Safe Defense, I support technical operations, patch and harden systems, and consult stakeholders in business and tech strategy.
 
 I solve complex problems while keeping people, data, and operations safe. The safety mindset is rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and dedication. I carry those principles into every project.
 
@@ -24,8 +24,8 @@ I solve complex problems while keeping people, data, and operations safe. The sa
 | <a href="https://docs.google.com/document/d/1Ir-lxCoDhoxXAvzhG5jXkS28WyAmRlXCuTXn6e1GCZc/edit?usp=sharing">Endpoint Hardening with Microsoft Defender</a>         | Endpoint Detection & Response |
 | <a href="https://docs.google.com/document/d/1FCyotqo3tezu3v9u1fy3YhqvtGabQ9LDkCCuIX6Tc-c/edit?usp=sharing">Phishing Simulation</a>                  | Security Awareness & Social Engineering |
 | <a href="https://docs.google.com/document/d/1ZFyJYea8fbIDALBzt-v-5n4SGFLYj4eXLmEd0TKaEOI/edit?usp=sharing">Python Algorithm for File Updates</a>                  | Python / Automation |
-| <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Network Analysis |
-| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Linux |
+| <a href="https://docs.google.com/document/d/1mHzzMkoGJWYwpaf3QGYO_4PgpQxvD67iRrvqFD9ys68/edit?usp=sharing&resourcekey=0-9wuhXTELuyWNIrnAp59TpA">File Permissions with Linux</a>          | Bash / Linux |
+| <a href="https://docs.google.com/document/d/1exUJgwg1o47dFe8iWgn6AfSbu2QESnis_6dm4DdTOOk/edit?usp=sharing">Attack Analysis with Wireshark</a> | Log / Network Analysis |
 | <a href="https://docs.google.com/document/d/19Air-hwzGRwNwqDVvFA8MvxRVftshoJ7HXmmvQSWqi0/edit?usp=sharing&resourcekey=0-fo6f30KPI6J28ALBqPA2oA">Vulnerability Assessment Report</a>      | Vulnerability Management |
 | <a href="https://docs.google.com/document/d/15qlSTKYAkqm3AAvgFRFZoghNr4NtGUtrH5JfwZAPLWo/edit?usp=sharing&resourcekey=0-NJVZEc-4ruODAMtvdx75TQ">Incident Response with NIST CSF</a> | NIST Framework |
 | <a href="https://docs.google.com/document/d/1L8d_cpQD_-xV2IPCbiInrvg6627wIuWgvi-hBHu_ujI/edit?usp=sharing&resourcekey=0-TMPUlzyR5A5Uswtzb_jfZg">Data Extraction with SQL</a> | SQL |
