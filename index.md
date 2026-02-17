@@ -10,7 +10,7 @@ title: "Christian's Portfolio"
 
 I’m a solutions-driven professional with a strong technical foundation, bridging security best practices and business operations. I bring five years of business analyst experience and hold CompTIA Network+ and Security+ certifications. I specialize in data interpretation, root cause analysis, and optimizing business processes through technology.
 
-At Kaiser Permanente, I delivered under heavy pressure on EHR software migration projects during open enrollment, reconciling data and coordinating tasks between departments that supported systems used by over a million members across nine regions. At Play It Safe Defense, I patch and harden systems, troubleshoot the network, and consult stakeholders in security best practices.
+At Kaiser Permanente, I delivered under heavy pressure on EHR software migration projects during open enrollment, reconciling data and coordinating tasks between departments that supported systems used by over a million members across nine regions. At Play It Safe Defense, I support technical operations, patch and harden systems, and consult stakeholders in business and tech strategy.
 
 I solve complex problems while keeping people, data, and operations safe. The safety mindset is rooted in my family: my dad is a pilot, my mom is a self-defense instructor, and my brother is a sheriff. Growing up a multi-sport athlete taught me that success comes from teamwork, effective communication, and dedication. I carry those principles into every project.
 
